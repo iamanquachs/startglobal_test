@@ -1,0 +1,3 @@
+bước 1: đưa file vào htdocs của xampp
+bước 2: cài đặt gói data vào localhost
+bước 3: chạy đường dẫn localhost đến folder
